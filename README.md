@@ -1,4 +1,6 @@
-### Bem vindo ao meu perfil, me chamo Lucas e estou cursando Ciências da Computação
+### Bem vindo ao meu perfil, me chamo Lucas e estou cursando Ciências da Computação.
+### Tenho 22 anos de idade, comecei a faculdade recentemente mas sou empenhado, meu foco no momento está em aprender HTML, CSS e JAVA.
+
 
 
 <div align="center">
