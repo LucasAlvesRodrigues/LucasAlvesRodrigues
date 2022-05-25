@@ -1,5 +1,5 @@
 ### Bem vindo ao meu perfil, me chamo Lucas e estou cursando Ciências da Computação.
-### Tenho 22 anos de idade, comecei a faculdade recentemente mas sou empenhado, meu foco no momento está em aprender HTML, CSS e Javascript.
+### Tenho 22 anos de idade, comecei a faculdade recentemente mas sou empenhado, meu foco no momento está em aprender HTML, CSS e Javascript, para poder aplicar para vagas de estágio web.
 
 
 
