@@ -15,7 +15,8 @@
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
   
-  ##![giphy](https://user-images.githubusercontent.com/101953137/176981790-eec15b24-8303-4797-aa6e-42426e2a7836.gif)
+  ##
+  ![giphy](https://user-images.githubusercontent.com/101953137/176981790-eec15b24-8303-4797-aa6e-42426e2a7836.gif)
 
  
 <div>
